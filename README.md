@@ -6,4 +6,3 @@ Related technologies:
 HTML+CSS+JavaScript
 
 
-![Screenshot](cover.png)
