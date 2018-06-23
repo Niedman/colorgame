@@ -6,4 +6,4 @@ Related technologies:
 HTML+CSS+JavaScript
 
 
-![alt text](https://gyazo.com/68615dba653cc9cd6c8c97a430b1163e)
+!(https://gyazo.com/68615dba653cc9cd6c8c97a430b1163e)
