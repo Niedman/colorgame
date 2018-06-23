@@ -6,3 +6,4 @@ Related technologies:
 HTML+CSS+JavaScript
 
 
+![alt text](https://raw.githubusercontent.com/Niedman/colorgame/blob/master/cover.PNG)
